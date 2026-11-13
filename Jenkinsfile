@@ -40,7 +40,7 @@ pipeline {
             echo 'CI Pipeline completed successfully!'
         }
         failure {
-            echo 'CI Pipeline failed and broken. Check console output.'
+            echo 'CI Pipeline failed and broken blah blah. Check console output.'
         }
     }
 }
